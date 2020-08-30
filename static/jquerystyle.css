@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+    padding-bottom: 200px;
+}
+
+body > section {
+    margin: 4em 0;
+}
+
+form {
+    width: 30%;
+}
+
+p {
+    width: 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.red {
+    color: red !important;
+}
+
+.input-feedback {
+    min-height: 1rem;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.border-black {
+    border: 1px solid black;
+    padding: 0.25rem;
+}
